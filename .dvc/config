@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gdrive://1lK0JEBtb_rSo-SP4AE5cdmYvk-kjDKag
+    url = /home/sa/dvc-storage/WaferSense
